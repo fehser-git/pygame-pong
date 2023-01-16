@@ -1,7 +1,7 @@
 import pygame
 import sys
 
-from Spielfeld_Module import Spielfeld
+from Spielfeld_Modul import Spielfeld
 from Ball_Modul import Ball
 
 pygame.init()

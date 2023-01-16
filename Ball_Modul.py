@@ -7,7 +7,7 @@ import pygame
 import sys
 import math
 
-from Spielfeld_Module import Spielfeld
+from Spielfeld_Modul import Spielfeld
 
 pygame.init()
 
